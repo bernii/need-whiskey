@@ -1,0 +1,16 @@
+---
+language: node_js
+node_js:
+- 0.1
+env:
+  matrix:
+  - secure: ! 'Zh+1qJtlKdZ08l/xe39M2sYb4WZajqYYGgKRetSCSPjmflYRv7TD10X0Ah+q
+
+      z2zcJrleeIZjLlNmQx8PoWzXZVZlMOcvCH+c06pZUR9hQFePHBDbHqBW9pGu
+
+      BwGTpljO/xlCyZD/tF/RqoqyphYmIuwC6VCRdo4NgbCfvJYALF0='
+  - secure: ! 'tSlZnWAdEd7UEjhTpXl1ypxtsG53n13fnv9YvVMh2qc2Hr04eYtZ3efFQsmB
+
+      j25GTe7TYyOYB7oMY7JRn2gl/GyOy+D3911ADHdDBux0orQC9V64PK2XrxZo
+
+      mruaTjCDAPgPFp5ALW5Zo4MSFtf2GLOq+SBYYRlt5SLw6y1sqHY='
